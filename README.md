@@ -1,8 +1,7 @@
 # epochwallet
 The no bullshit, mobile friendly Cardano wallet!
 
-## Getting Started
-
+## Usage
 First, run the development server:
 
 ```bash
@@ -10,3 +9,9 @@ yarn dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+Run test:
+
+```bash
+yarn test
+```
